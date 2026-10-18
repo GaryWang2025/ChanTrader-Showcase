@@ -1,0 +1,10 @@
+#research-chart .grid{stroke:rgba(231,243,226,.07);stroke-width:1}
+#research-chart .axis{fill:#7d8a82;font:10px var(--mono)}
+#research-chart .candles path{stroke:#b9d3c0;stroke-width:1}
+#research-chart .candles rect.bull{fill:#91dba7;stroke:#91dba7}
+#research-chart .candles rect.bear{fill:#e8886e;stroke:#e8886e}
+#research-chart .macd rect.positive{fill:#c9ff53;opacity:.6}
+#research-chart .macd rect.negative{fill:#f08a6b;opacity:.52}
+#research-chart .structures{fill:none;stroke:#c9ff53;stroke-width:1.4;stroke-dasharray:5 5}
+#research-chart .structures circle{fill:#c9ff53;stroke:none}
+#research-chart .structures text{fill:#c9ff53;stroke:none;font:9px var(--mono);letter-spacing:.06em}
